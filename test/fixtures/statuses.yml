@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: "rato"
+
+three:
+  content: "exploring :)"
+  user: "tora"
